@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ashish  <br>🎓 2nd Year BTech CSE Student @ AKTU  <br>💻 Learning & building with Java, HTML, CSS, and Python  <br>🔍 Exploring backend logic, file handling, and web development  <br>🚀 Aspiring Java Full Stack Developer | Passionate about DSA & coding challenges  <br>📚 Actively sharing my learning journey & projects  <br>🌱 Hackathon enthusiast | Building tech with social impact
+👋 Hi, I'm Ashish  <br>🎓 2nd Year BTech CSE Student @ AKTU  <br>💻 Learning & building logic with Java, HTML, CSS, and Python  <br>🔍 Exploring backend logic, file handling, and web development  <br>🚀 Aspiring Java Full Stack Developer | Passionate about DSA & coding challenges  <br>📚 Actively sharing my learning journey & projects  <br>🌱 Hackathon enthusiast | Building tech with social impact
 
 
 ## 🌐 Socials:
